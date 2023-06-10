@@ -25,9 +25,9 @@ Next install everything from the requirements.txt file. To do this: download and
 
 > pip install -r requirements.txt
 
-Now you are set to run it. To do this find the player file in your starbound directory. It will be a bunch of numbers with a '.player' extension. 
+Now you are set to run it. To do this find the player file in your starbound directory. It will be a bunch of numbers with a '.player' extension. There will be several based on how many players you have. Youll just have to guess for now (ill make a better way soon)
 
-Right click the file and click 'copy as path'.
+Shift-right click the file and click 'copy as path'.
 
 Then go back to your terminal in the project directory and enter
 
